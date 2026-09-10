@@ -1,3 +1,22 @@
-I am passionate about networking and low-level programming, especially using C and working with the Linux kernel. I have experience in kernel development and building operating systems, where I dive into how computers work at their core. I am most comfortable with the x86_64 architecture, which I’ve used a lot. I’ve also tried creating my own virtual architectures, but those didn’t work out, though I learned a lot from them. Most of my projects are experiments and often unfinished, as I focus on learning and exploring. Recently, I’ve started working on micro, a small, low-level system with a grammar nearly identical to C, though it doesn’t fully implement the C standard. Check it out at [KevinAlavik/micro](https://github.com/KevinAlavik/micro). For more complete and polished work, explore the repositories at [@piraterna](https://piraterna.org).
+# Hello, I'm Kevin!
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalavik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm currently studying to become an industrial electrician. I've always been interested in figuring out how things work and why they don't work when something breaks. I like troubleshooting stuff, taking things apart and messing around until I understand what's actually going on.
+
+## What I do
+
+* Studying to become an industrial electrician
+* OSDev
+* C programming
+* Unix and Unix-like systems
+* Low level programming
+* Messing around with different CPU architectures
+
+## A bit more about me
+
+I've spent quite a lot of time doing OSDev, mostly because I like working close to the hardware and figuring out how all the little pieces fit together.
+
+I really like C. To me it's kind of the perfect language. Not too complicated, not too simple. It's pretty low level when you want it to be, but you can still get stuff done without fighting the language all the time.
+
+I guess that's also why I like working with electrical systems. I enjoy troubleshooting something that doesn't work, following the problem, and eventually figuring out what went wrong.
+
+I love Unix, low level programming and just messing around with computers to see what happens.
